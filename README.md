@@ -1,9 +1,9 @@
-#Tujuan Praktikum
+# Tujuan Praktikum
 -Melatih implementasi CRUD (Create, Read, Update, Delete) pada aplikasi catatan.
 -Menguasai manipulasi DOM dan manajemen state data.
 -Membiasakan diri dengan clean code architecture agar kode rapi dan modular.
 
-#Fitur Utama yang Harus Dipraktikkan
+# Fitur Utama yang Harus Dipraktikkan
 -Create (Tambah Catatan)
 -Buat form input dengan field judul dan isi catatan.
 -Saat tombol submit ditekan, catatan baru ditambahkan ke daftar.
